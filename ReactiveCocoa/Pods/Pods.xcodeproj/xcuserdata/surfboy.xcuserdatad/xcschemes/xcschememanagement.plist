@@ -4,12 +4,12 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>Pods-ReactiveCocoa.xcscheme</key>
+		<key>Pods.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>Pods.xcscheme</key>
+		<key>ReactiveCocoa.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
@@ -17,12 +17,12 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>564B2579D8A284BFB53DE7C5</key>
+		<key>70745DC835C4A0763DC30C1606A36ECC</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>9AD35F38A7AEDEF536045FE6</key>
+		<key>BC7628DE00C5FC5DD030D4BFDE8B9BAC</key>
 		<dict>
 			<key>primary</key>
 			<true/>
